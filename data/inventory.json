@@ -1,0 +1,57 @@
+{
+  "cars": [{
+    "make": "Nissan",
+    "model": "Rogue",
+    "year": "2006",
+    "price": "8999",
+    "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+  }, {
+    "make": "Mazda",
+    "model": "Miata",
+    "year": "1995",
+    "price": "6295",
+    "description": "Its got most of its tires."
+  }, {
+    "make": "Tonka",
+    "model": "Truck",
+    "year": "1986",
+    "price": "100",
+    "description": "The toy you've always dreamed of. Plastic everything. No motor."
+  }, {
+    "make": "DMC",
+    "model": "Delorean",
+    "year": "1981",
+    "price": "88",
+    "description": "This thing is outta time. Can't drive over 88 mph"
+  }, {
+    "make": "Your Mom",
+    "model": "Pinto",
+    "year": "1969",
+    "price": "36.99",
+    "description": "Your Mom likes this car."
+  }, {
+    "make": "Subaru",
+    "model": "Kombucha",
+    "year": "1972",
+    "price": "50000",
+    "description": "In my Subaru with the Kombucha mushroom people, sitting around all day."
+  }, {
+    "make": "Truck",
+    "model": "truck",
+    "year": "2020",
+    "price": "20000",
+    "description": "Its got 4 tires and its a truck, the end."
+  }, {
+    "make": "Ferrari",
+    "model": "fastcar",
+    "year": "64",
+    "price": "10000.99",
+    "description": "Its red like on your poster, pew pew pew."
+  }, {
+    "make": "Wat",
+    "model": "El Dorado",
+    "year": "1981",
+    "price": "12",
+    "description": "This thing is half car, half truck, half pickle. Wat."
+  }]
+}
